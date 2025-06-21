@@ -11,7 +11,7 @@
 
 
 **CELLA** is a modern, open-source AI agent platform built upon cutting-edge advances in agentic systems and context engineering (see: Cognition AI, Anthropic).
-In contrast to the currently popular—-but often overly complex and chaotic—-multi-agent frameworks, CELLA employs a streamlined single-agent, persistent-memory architecture focused on reliability, transparency, and straightforward extensibility.
+In contrast to the currently popular—but often overly complex and chaotic—multi-agent frameworks, CELLA employs a streamlined single-agent, persistent-memory architecture focused on reliability, transparency, and straightforward extensibility.
 
 
 
